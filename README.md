@@ -1,1 +1,1 @@
-# Sk_Projects
+Welcome to my Slash Mark Virtual Internship repository! This repository showcases a collection of machine learning projects that I developed during my internship with Slash Mark. Throughout the program, I gained valuable hands-on experience across various aspects of machine learning, ranging from basic to advanced levels. Below, you will find descriptions of each project I completed as part of this program.
